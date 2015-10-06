@@ -1,14 +1,15 @@
-# App name
+:warning: *Use of this software is subject to important terms and conditions as set forth in the License file* :warning:
 
-[brief description of the app]
+# WHM Integration
+
+Integration with WHM to allow control of cPanel accounts and check Server Status
 
 ### The following information is displayed:
 
-* info1
-* info2
-* info3
+*TBD
 
-Please submit bug reports to [Insert Link](). Pull requests are welcome.
+Please submit bug reports in the [repo issues](https://github.com/ZendeskES/whm_integration/issues). Pull requests are welcome.
 
 ### Screenshot(s):
-[put your screenshots down here.]
+
+TBD
