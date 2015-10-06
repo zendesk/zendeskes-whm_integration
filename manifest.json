@@ -9,5 +9,26 @@
   "private": true,
   "location": "ticket_sidebar",
   "version": "1.0",
-  "frameworkVersion": "1.0"
+  "frameworkVersion": "1.0",
+  "parameters":[{
+    "name": "server_name",
+    "type": "text",
+    "required": true
+  },{
+    "name": "server_domain",
+    "type": "text",
+    "required": true
+  },{
+    "name": "server_username",
+    "type": "text",
+    "required": true
+  },{
+    "name": "server_hash",
+    "type": "text",
+    "required": true
+  },{
+    "name": "server_port",
+    "type": "integer",
+    "required": true
+  }]
 }
